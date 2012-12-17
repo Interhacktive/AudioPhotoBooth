@@ -1,0 +1,14 @@
+
+.DS_Store
+
+bin/emptyExampleDebug.app/Contents/PkgInfo
+
+bin/emptyExampleDebug.app/Contents/MacOS/libfmodex.dylib
+
+bin/emptyExampleDebug.app/Contents/MacOS/emptyExampleDebug
+
+bin/emptyExampleDebug.app/Contents/Info.plist
+
+bin/emptyExampleDebug.app/Contents/Frameworks/GLUT.framework/Versions/Current/Resources/waitCursor.tiff
+
+bin/*
